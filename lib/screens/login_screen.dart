@@ -26,7 +26,7 @@ class LoginScreen extends StatelessWidget {
               icon: Icons.email,
             ),
             const CustomTextField(
-              hint: 'كلمة ',
+              hint: 'كلمة المرور',
               icon: Icons.lock,
             ),
             SizedBox(
