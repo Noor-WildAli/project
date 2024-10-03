@@ -22,7 +22,7 @@ class LoginScreen extends StatelessWidget {
         children: [
           Column(children: [
             const CustomTextField(
-              hint: 'البريد ',
+              hint: 'البريد الالكتروني',
               icon: Icons.email,
             ),
             const CustomTextField(
